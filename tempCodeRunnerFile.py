@@ -1,0 +1,1 @@
+rgb_frame = frame[:, :, ::-1]  # BGR to RGB
